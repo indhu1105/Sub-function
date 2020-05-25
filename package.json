@@ -1,0 +1,22 @@
+{
+  "name": "sub-function",
+  "version": "0.0.1",
+  "description": "\" subtract 2 numbers but always return a positive value (input number will always be a positive integer) \"",
+  "main": "sub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indhu1105/Sub-function.git"
+  },
+  "author": "Indhu",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/indhu1105/Sub-function/issues"
+  },
+  "homepage": "https://github.com/indhu1105/Sub-function#readme",
+  "dependencies": {
+    "indhu-test": "github:indhu1105/Indhu-test-library"
+  }
+}
